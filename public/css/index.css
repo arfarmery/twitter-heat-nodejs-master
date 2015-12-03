@@ -1,4 +1,4 @@
-/***** HEADER CSS NOT REQUIRED FOR DEMO *****/
+
 #safe-ribbon {
 	position: relative;
 	display: block;
@@ -9,7 +9,7 @@
 }
 
 #safe-ribbon a{
-  background:#E98300;
+  background:#ffffff;
   color:#fff;
   text-decoration:none;
   font-family:arial, sans-serif;
@@ -90,7 +90,7 @@ body {
 }
 
 .navbar-inner {
-  background-color: #7AB800;
+  background-color: #fff;
   background-image: none;
 }
 
